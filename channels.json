@@ -1,1 +1,14 @@
-# Tvapp
+[
+  {
+    "name": "Somoy TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Somoy_TV_logo.png",
+    "url": "https://YOUR_STREAM_LINK.m3u8",
+    "category": "Bangladesh"
+  },
+  {
+    "name": "Star Sports 1",
+    "logo": "https://example.com/starsports.png",
+    "url": "https://YOUR_STREAM_LINK.m3u8",
+    "category": "Sports"
+  }
+]
