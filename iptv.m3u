@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxsYgYg/asian-tv.png", Asian TV
+http://103.149.156.10:8080/asiantv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XW8Fp0q/somoy-tv.png", Somoy TV
+https://ch-1.bdiptv.stream/somoy/index.m3u8
